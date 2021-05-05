@@ -1,10 +1,4 @@
 
-		// TODO Auto-generated method stub
-
-	}
-
-import java.util.Scanner;
-
 public class Chitietphieunhap extends PhieuNhap{
     int MaPhieuNhap;
     String TenPhieuNhap;
@@ -25,4 +19,5 @@ public class Chitietphieunhap extends PhieuNhap{
     void in(){
          System.out.println("Mã phiếu:"+MaPhieuNhap +"\n" +"Tên Phiếu Nhâp:"+ TenPhieuNhap +"\n"+"Số lượng:"+ SoLuong +"hạn sử dụng: "+HanSuDung);
     }
+    
 }
